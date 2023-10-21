@@ -176,6 +176,10 @@ body {
   border-radius: 15px;
 }
 
+.tugas p {
+  padding: 5px;
+}
+
 .tugas a {
   text-decoration: none;
   color: #ee6e18;
