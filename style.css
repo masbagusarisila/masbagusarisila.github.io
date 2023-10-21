@@ -176,6 +176,11 @@ body {
   border-radius: 15px;
 }
 
+.tugas a {
+  text-decoration: none;
+  color: #ee6e18;
+}
+
 section {
   margin: 20px;
   padding: 20px;
